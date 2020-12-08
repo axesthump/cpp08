@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/casubmar/CLionProjects/cpp08/ex00/easyfind.hpp
+algorithm
+-
+
+/home/casubmar/CLionProjects/cpp08/ex00/main.cpp
+iostream
+-
+vector
+/home/casubmar/CLionProjects/cpp08/ex00/vector
+easyfind.hpp
+/home/casubmar/CLionProjects/cpp08/ex00/easyfind.hpp
+
